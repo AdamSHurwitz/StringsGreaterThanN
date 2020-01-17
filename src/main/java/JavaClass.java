@@ -2,6 +2,7 @@ import java.util.ArrayList;
 
 /**
  * Created by adamhurwitz on 3/10/16.
+ * Note: Pass in any type of list.
  */
 public class JavaClass {
     static ArrayList<String> strs = new ArrayList<String>();
